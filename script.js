@@ -42,7 +42,7 @@ var typed = new Typed((".skill"),{
 })
 
 var typed = new Typed((".nama"),{
-    strings : ["Aidil Chairi Willian"],
+    strings : ["Aidil Chairi W."],
     typeSpeed : 100,
     backSpeed : 100,
     backDelay : 1000,
